@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ExamenParcial1</string>
+    <string name="fotos_cargadas">Fotos cargadas: %1$d</string>
+</resources>

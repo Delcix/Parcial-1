@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="bg_main">#F6F4FA</color>
+    <color name="surface_card">#FFFFFFFF</color>
+    <color name="text_primary">#2A1F3D</color>
+    <color name="text_secondary">#6E6285</color>
+    <color name="purple_500">#7C4DFF</color>
+    <color name="purple_700">#5A35C9</color>
+    <color name="lavender_soft">#EEE7FF</color>
+    <color name="mint_soft">#DFF6EE</color>
+    <color name="peach_soft">#FFECDD</color>
+    <color name="progress_track">#E7E1F2</color>
+</resources>
